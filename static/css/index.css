@@ -169,7 +169,7 @@ body {
 }
 
 #TLNR {
-  background-color: rgb(198, 219, 197);
+  background-color: rgb(227, 235, 227);
 }
 
 #pipeline {
@@ -180,5 +180,5 @@ body {
 
 #xadapter{
   font-style: italic; 
-  color: rgb(241, 237, 238);
+  color: rgb(205, 153, 166);
 }
